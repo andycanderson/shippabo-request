@@ -1,0 +1,19 @@
+{
+  "name": "shippabo-request",
+  "version": "1.0.0",
+  "description": "shippabo request api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andycanderson/shippabo-request.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andycanderson/shippabo-request/issues"
+  },
+  "homepage": "https://github.com/andycanderson/shippabo-request#readme"
+}
