@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andycanderson/shippabo-request/issues"
   },
-  "homepage": "https://github.com/andycanderson/shippabo-request#readme"
+  "homepage": "https://github.com/andycanderson/shippabo-request#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
 }
